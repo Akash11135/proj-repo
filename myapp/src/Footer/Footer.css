@@ -1,0 +1,14 @@
+.footer-container{
+    border: 2px solid black;
+    margin-left: 15%;
+}
+
+.footerdata{
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    height: 20vh;
+    background-color: rgba(12, 12, 48, 0.46);
+    color: black;
+    width: 100%;
+}

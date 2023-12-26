@@ -1,0 +1,30 @@
+.sidebar-Crypto-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 16%;
+    justify-content: space-evenly;
+  
+}
+.currency-display{ 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.search{
+  
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    width: 40%;
+    border: 2px solid rgba(128, 128, 128, 0.153);
+    height: 3rem;
+    background-color: rgba(128, 128, 128, 0.153);
+    border-radius: 5px;
+    padding: 1rem;
+    font-size:1.5rem ;
+}

@@ -1,0 +1,33 @@
+.exchange-container {
+    /* margin-left: 15%; */
+    /* padding: 0.5rem; */
+    cursor: pointer;
+    /* padding-left: 1rem; */
+   
+}
+
+.exchange-head {
+    border-bottom: 2px solid rgba(128, 128, 128, 0.526);
+    /* margin-left: 15%; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.exchange-head ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 0.5rem;
+}
+
+.item1 {
+    
+    height: 50px;
+    width: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+
+}
+

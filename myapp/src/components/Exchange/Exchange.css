@@ -1,0 +1,32 @@
+.sidebar-exchange-container {
+   margin-left: 15%;
+    padding: 0.5rem;
+    cursor: pointer;
+    padding-left: 1rem;
+    border-bottom: 2px solid #f5f5f559;
+   
+}
+.exchange-contents{
+    border-bottom: 2px solid rgba(128, 128, 128, 0.526);
+    margin-left: 15%;
+}
+.item-list{
+    display: flex;
+    justify-content:space-between ;
+    list-style-type: none;
+    padding: 0.5rem;
+    
+}
+
+.item{
+    background-color: rgba(128, 128, 128, 0.526);
+    height: 50px;
+    width: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+}
+
+
+
