@@ -74,7 +74,7 @@ const Wrapper = () => {
   return (
     <>
         {coins && <Sidebar coins={coins} />}
-
+        <h1>HAHAHAHAHAHAHA</h1>
             <Route exact path="/">
                 <Home coins={coins} stat={stat} news={news} loading={loading} />
             </Route>
